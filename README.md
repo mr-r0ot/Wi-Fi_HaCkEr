@@ -1,7 +1,3 @@
-# IpSiTe
-A quick and simple tool to get your target ip
-
-
 # Install and run the tool
 * Installation and execution commands in Shell
 ```
